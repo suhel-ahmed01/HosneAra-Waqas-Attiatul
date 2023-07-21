@@ -1,0 +1,26 @@
+.nav-title{
+    background-color: rgb(111, 172, 116);
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    font-size: xx-large;
+    width: 1400px;
+    height: 130px;
+    padding-top: 1px;
+}
+
+.w1{
+    color: gold;
+}
+.a1{
+    color: greenyellow;
+}
+
+.ha1{
+    color: crimson;
+}
+
+.sa1{
+    color: rgb(8, 218, 89)
+}
