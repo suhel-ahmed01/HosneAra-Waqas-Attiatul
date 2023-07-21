@@ -8,19 +8,36 @@
     width: 1400px;
     height: 130px;
     padding-top: 1px;
+    outline-style: double;
+    outline-color: gold;
+}
+
+.nav-img{
+    outline-style: dotted;
+    outline-color: greenyellow;
 }
 
 .w1{
     color: gold;
+    outline-style: double;
+    outline-color: greenyellow;
+
 }
 .a1{
     color: greenyellow;
+    outline-style: double;
+    outline-color: greenyellow;
 }
 
 .ha1{
     color: crimson;
+    outline-style: double;
+    outline-color: greenyellow
 }
 
 .sa1{
-    color: rgb(8, 218, 89)
+    color: lightseagreen;
+    outline-color: gold;
+    outline-style: double;
+
 }
